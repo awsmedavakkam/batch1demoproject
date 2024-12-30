@@ -1,0 +1,18 @@
+*{
+    background-color: aquamarine;
+    color: black;
+}
+
+h1{
+    background-color: antiquewhite;
+    color: aliceblue;
+}
+
+.home{
+    font-size: 40px;
+    color: yellow;
+}
+
+#home{
+background-color: azure;
+}
